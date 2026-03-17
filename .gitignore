@@ -1,1 +1,3 @@
 prv_note.txt
+mtls/certs/*.key
+mtls/certs/*.crt
